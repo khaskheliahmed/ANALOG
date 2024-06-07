@@ -1,0 +1,56 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: "Platypi", serif;
+}
+html{
+
+    border: double black 4px;
+    margin: 10px auto 10px auto;
+    padding: 35px;
+    letter-spacing: 0.31rem;
+    word-spacing: 0.11em;
+    text-align: center;
+
+}
+ul{
+
+    /* position: relative; */
+    display: inline;
+    border-top:  double black 6px ;
+    border-bottom: double black 6px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    word-spacing: 115px;
+}
+li{
+    display: inline;
+
+     
+
+
+}
+.images{
+    padding: 20px;
+    margin: 20px;
+
+
+
+}
+.log{
+    padding: 0px;
+    text-align: center;
+    padding: 40px;
+     margin: 21px;
+
+
+}
+ul :hover{
+    background-color: cornflowerblue;
+    border-radius: 4px;
+}
